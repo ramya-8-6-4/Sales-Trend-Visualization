@@ -17,3 +17,8 @@ Domain:Data Analytics
 Organization: CodtechIt Solutions 
 
 Internship period: 17 May 2026 - 28 june 2026
+
+Local URL: http://localhost:8501
+
+Network URL: http://192.168.29.225:8501
+
