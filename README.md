@@ -18,6 +18,8 @@ Organization: CodtechIt Solutions
 
 Internship period: 17 May 2026 - 28 june 2026
 
+MENTOR:Neela Santhosh
+
 Local URL: http://localhost:8501
 
 Network URL: http://192.168.29.225:8501
